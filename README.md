@@ -12,7 +12,7 @@
 
 
 
-## Description
+# Description
 Implementation of decimal value type in C language. This type represents 96-bit signed real number featuring opratinons.
 
 # Goal and requirements
